@@ -1,12 +1,18 @@
-<!-- HEADER -->
+<!-- GitHub Profile README - Xiaji-yu (Chinese) -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=header&text=Hi%20there%2C%20I%27m%20Xiaji-yu&fontSize=40&fontColor=e6edf3&fontAlignY=50&animation=fadeIn&fontFamily=Segoe+UI" alt="hero" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=header&text=Hi%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Xiaji-yu&fontSize=36&fontColor=e6edf3&fontAlignY=50&animation=fadeIn&fontFamily=Segoe+UI" alt="hero" width="100%"/>
+
+<style>
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+  .card { animation: fadeUp 0.6s ease-out both; }
+</style>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Available_for_collaboration-3fb950?style=for-the-badge" alt="status"/>
-  <img src="https://img.shields.io/badge/Focus-Open_Source_%26_Clean_Code-58a6ff?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%8F%AF%E7%94%A8%E4%BA%8E%E5%90%88%E4%BD%9C-3fb950?style=for-the-badge" alt="status"/>
+  <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8-%E5%BC%80%E6%BA%90%26%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F-58a6ff?style=for-the-badge" alt="focus"/>
 </p>
 
 <p>
@@ -18,27 +24,27 @@
 
 ---
 
-## About Me
+## 关于我
 
 <div align="center">
 <table><tr><td align="center" width="120px">
 <div style="width:110px;height:110px;border-radius:50%;background:linear-gradient(135deg,#58a6ff,#a371f7);display:flex;align-items:center;justify-content:center;font-size:36px;color:#fff;font-weight:bold;">YU</div>
 </td><td align="left" style="padding-left:24px;color:#8b949e;line-height:1.8;">
-A passionate developer who loves building clean, efficient software.<br/>
-Focused on writing well-structured code and exploring new technologies.<br/>
-Always open to interesting projects and meaningful collaboration.
+一名热爱编程的开发者，喜欢构建简洁、高效的软件。<br/>
+专注于编写结构清晰的代码，不断探索新技术。<br/>
+欢迎有意义的技术合作与交流。
 </td></tr></table>
 </div>
 
-- 🔭 I'm currently working on **open source projects**
-- 🌱 I'm currently learning **systematic engineering practices**
-- 👯 I'm looking to collaborate on **well-architected software**
-- 💬 Ask me about **Python, TypeScript, clean architecture**
-- ⚡ Fun fact: **Code quality > code quantity**
+- 🔭 正在参与 **开源项目**
+- 🌱 正在学习 **系统性工程实践**
+- 👯 寻找 **架构良好的软件项目** 合作
+- 💬 可聊话题：**Python、TypeScript、Clean Architecture**
+- ⚡ 信条：**代码质量 > 代码数量**
 
 ---
 
-## Tech Stack
+## 技术栈
 
 <div align="center">
 <p>
@@ -49,15 +55,20 @@ Always open to interesting projects and meaningful collaboration.
 </p>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 </div>
 
 ---
 
-## Featured Projects
+## 代表项目
 
 <div align="center">
 
@@ -73,27 +84,51 @@ Always open to interesting projects and meaningful collaboration.
 
 ---
 
-## Development Principles
+## 近期动态
+
+<table align="center" style="border-collapse:separate;border-spacing:8px;">
+  <tr>
+    <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 24px;min-width:180px;">
+      <div style="font-size:28px;">💻</div>
+      <div style="color:#e6edf3;font-weight:600;margin-top:6px;">构建</div>
+      <div style="color:#8b949e;font-size:14px;">开源工具</div>
+    </td>
+    <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 24px;min-width:180px;">
+      <div style="font-size:28px;">📖</div>
+      <div style="color:#e6edf3;font-weight:600;margin-top:6px;">学习</div>
+      <div style="color:#8b949e;font-size:14px;">系统设计与架构</div>
+    </td>
+    <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 24px;min-width:180px;">
+      <div style="font-size:28px;">🤝</div>
+      <div style="color:#e6edf3;font-weight:600;margin-top:6px;">协作</div>
+      <div style="color:#8b949e;font-size:14px;">社区项目</div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 开发理念
 
 <details>
-<summary><b>Click to expand my engineering philosophy</b></summary><br/>
+<summary><b>点击展开我的工程哲学</b></summary><br/>
 
-> *"Simplicity is prerequisite for reliability."* -- Edsger W. Dijkstra
+> *"简洁是可靠的前提。"* -- Edsger W. Dijkstra
 
-| Principle | Description |
-|-----------|-------------|
-| **Readability First** | Code is read more than written. If it is not clear, it is not done. |
-| **Minimal Dependencies** | Prefer standard library over third-party. Every dependency is a liability. |
-| **Test the Logic** | Pure functions, state machines, and shared utilities deserve tests. |
-| **Type Safety** | Types are documentation that the compiler enforces. |
-| **Iterate Fast** | Prototype, validate, then polish. Do not over-engineer the first draft. |
-| **Review Ruthlessly** | Every PR should be better than the code it replaces. |
+| 原则 | 说明 |
+|------|------|
+| **可读性优先** | 代码被阅读的次数远多于编写次数。读不懂就是没写完。 |
+| **最小依赖** | 优先使用标准库。每个第三方依赖都是一份负债。 |
+| **测试逻辑** | 纯函数、状态机、共用工具函数值得被测试。 |
+| **类型即文档** | 类型是编译器强制执行的文档。 |
+| **快速迭代** | 原型先行，验证后再打磨。不要过度设计。 |
+| **严格审查** | 每个 PR 都应该比它所替换的代码更好。 |
 
 </details>
 
 ---
 
-## GitHub Stats
+## GitHub 数据
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xiaji-yu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9"/>
@@ -106,11 +141,11 @@ Always open to interesting projects and meaningful collaboration.
 
 ---
 
-## Quote
+## 座右铭
 
 <div align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px 32px;max-width:560px;margin:0 auto;">
 <p style="color:#c9d1d9;font-style:italic;font-family:Georgia,serif;font-size:16px;line-height:1.6;margin:8px 0 16px 0;">
-  "Programs must be written for people to read, and only incidentally for machines to execute."
+  "程序必须写给人类阅读，顺便让机器执行。"
 </p>
 <p style="color:#58a6ff;font-size:13px;font-weight:600;">-- Harold Abelson</p>
 </div>
