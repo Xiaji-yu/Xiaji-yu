@@ -1,14 +1,19 @@
 <div align="center">
+
 <img alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=header&text=Hi%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Xiaji-yu&fontSize=36&fontColor=e6edf3&fontAlignY=50&animation=fadeIn&fontFamily=Segoe+UI" width="100%"/>
+
 <p style="font-family:monospace;font-size:18px;color:#58a6ff;margin-top:24px;">> init profile --mode=developer &#9608;</p>
+
 <p>
   <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%8F%AF%E7%94%A8%E4%BA%8E%E5%90%88%E4%BD%9C-3fb950?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8-%E5%BC%80%E6%BA%90%26%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F-58a6ff?style=for-the-badge"/>
 </p>
+
 <p>
   <a href="https://github.com/Xiaji-yu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:variant305@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 </div>
 
 ---
@@ -27,7 +32,6 @@
 
 - 🔭 正在参与 **开源项目**
 - 🌱 正在学习 **系统性工程实践**
-- 👯 寻找 **架构良好的软件项目** 合作
 - 💬 可聊话题：**Python、TypeScript、Clean Architecture**
 - ⚡ 信条：**代码质量 > 代码数量**
 
@@ -53,22 +57,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
-</div>
-
----
-
-## 代表项目
-
-<div align="center">
-
-<a href="https://github.com/Xiaji-yu/cc-switch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xiaji-yu&repo=cc-switch&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&description_lines_count=3"/>
-</a>
-
-<a href="https://github.com/Xiaji-yu/nonebot_chat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xiaji-yu&repo=nonebot_chat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&description_lines_count=3"/>
-</a>
-
 </div>
 
 ---
@@ -126,17 +114,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xiaji-yu&theme=github-dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&text=c9d1d9" alt="streak"/>
-</div>
-
----
-
-## 座右铭
-
-<div align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px 32px;max-width:560px;margin:0 auto;">
-<p style="color:#c9d1d9;font-style:italic;font-family:Georgia,serif;font-size:16px;line-height:1.6;margin:8px 0 16px 0;">
-  "程序必须写给人类阅读，顺便让机器执行。"
-</p>
-<p style="color:#58a6ff;font-size:13px;font-weight:600;">-- Harold Abelson</p>
 </div>
 
 ---
