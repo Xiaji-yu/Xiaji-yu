@@ -1,25 +1,14 @@
-<!-- GitHub Profile README - Xiaji-yu (Chinese) -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=header&text=Hi%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Xiaji-yu&fontSize=36&fontColor=e6edf3&fontAlignY=50&animation=fadeIn&fontFamily=Segoe+UI" alt="hero" width="100%"/>
-
-<style>
-  @keyframes blink { 50% { opacity: 0; } }
-  @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
-  .card { animation: fadeUp 0.6s ease-out both; }
-</style>
-
+<img alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=header&text=Hi%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Xiaji-yu&fontSize=36&fontColor=e6edf3&fontAlignY=50&animation=fadeIn&fontFamily=Segoe+UI" width="100%"/>
+<p style="font-family:monospace;font-size:18px;color:#58a6ff;margin-top:24px;">> init profile --mode=developer &#9608;</p>
 <p>
-  <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%8F%AF%E7%94%A8%E4%BA%8E%E5%90%88%E4%BD%9C-3fb950?style=for-the-badge" alt="status"/>
-  <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8-%E5%BC%80%E6%BA%90%26%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F-58a6ff?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%8F%AF%E7%94%A8%E4%BA%8E%E5%90%88%E4%BD%9C-3fb950?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8-%E5%BC%80%E6%BA%90%26%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F-58a6ff?style=for-the-badge"/>
 </p>
-
 <p>
-  <a href="https://github.com/Xiaji-yu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:variant305@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Xiaji-yu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:variant305@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 </div>
 
 ---
@@ -89,17 +78,17 @@
 <table align="center" style="border-collapse:separate;border-spacing:8px;">
   <tr>
     <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 24px;min-width:180px;">
-      <div style="font-size:28px;">💻</div>
+      <div style="font-size:28px;">&#128187;</div>
       <div style="color:#e6edf3;font-weight:600;margin-top:6px;">构建</div>
       <div style="color:#8b949e;font-size:14px;">开源工具</div>
     </td>
     <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 24px;min-width:180px;">
-      <div style="font-size:28px;">📖</div>
+      <div style="font-size:28px;">&#128214;</div>
       <div style="color:#e6edf3;font-weight:600;margin-top:6px;">学习</div>
       <div style="color:#8b949e;font-size:14px;">系统设计与架构</div>
     </td>
     <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 24px;min-width:180px;">
-      <div style="font-size:28px;">🤝</div>
+      <div style="font-size:28px;">&#129309;</div>
       <div style="color:#e6edf3;font-weight:600;margin-top:6px;">协作</div>
       <div style="color:#8b949e;font-size:14px;">社区项目</div>
     </td>
@@ -154,8 +143,8 @@
 
 <div align="center">
 <p>
-  <a href="https://github.com/Xiaji-yu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:variant305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Xiaji-yu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:variant305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Xiaji-yu&style=flat&color=58a6ff" alt="Profile views"/>
