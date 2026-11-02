@@ -41,11 +41,6 @@ NoneBot2 只当消息通道，核心 `agentcore` 是纯 Python 包，不感知 Q
 
 `Python` · `标准库`
 
-### [Moments](https://github.com/Xiaji-yu/moments) · 出行照片挑图
-
-批量导入照片，让识图 LLM 挑出值得发的 Top N 并说明理由。二次构图、文案生成和九宫格预览在计划里。
-
-`TypeScript` · `LLM`
 
 ---
 
