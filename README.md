@@ -1,86 +1,80 @@
 <div align="center">
-
-<img alt="hero" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=header&text=Hi%20%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Xiaji-yu&fontSize=36&fontColor=e6edf3&fontAlignY=50&animation=fadeIn&fontFamily=Segoe+UI" width="100%"/>
-
-<p style="font-family:monospace;font-size:18px;color:#58a6ff;margin-top:24px;">> init profile --mode=developer &#9608;</p>
-
-<p>
-  <img src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%8F%AF%E7%94%A8%E4%BA%8E%E5%90%88%E4%BD%9C-3fb950?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8-%E5%BC%80%E6%BA%90%26%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F-58a6ff?style=for-the-badge"/>
-</p>
-
-<p>
-  <a href="https://github.com/Xiaji-yu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:variant305@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiaji-yu/Xiaji-yu/master/assets/hero-dark.svg">
+    <img src="https://raw.githubusercontent.com/Xiaji-yu/Xiaji-yu/master/assets/hero-light.svg" alt="XIAJI" width="560">
+  </picture>
+  <br><br>
+  <p><strong>夏祭</strong> · 独立开发者</p>
+  <p>偏爱零依赖、可自托管、一个人也能维护完的系统。<br>
+     做的都是自己每天在用的东西。</p>
 </div>
 
 ---
 
-## 关于我
+## 最近
 
-<div align="center">
-<table><tr><td align="center" width="120px">
-<div style="width:110px;height:110px;border-radius:50%;background:linear-gradient(135deg,#58a6ff,#a371f7);display:flex;align-items:center;justify-content:center;font-size:36px;color:#fff;font-weight:bold;">YU</div>
-</td><td align="left" style="padding-left:24px;color:#8b949e;line-height:1.8;">
-一名热爱编程的开发者，喜欢构建简洁、高效的软件。<br/>
-专注于编写结构清晰的代码，不断探索新技术。<br/>
-欢迎有意义的技术合作与交流。
-</td></tr></table>
-</div>
-
-- 🔭 正在参与 **开源项目**
-- 🌱 正在学习 **系统性工程实践**
-- 💬 可聊话题：**Python、TypeScript、Clean Architecture**
-- ⚡ 信条：**代码质量 > 代码数量**
+- 在写 **[agent-demo](https://github.com/Xiaji-yu/agent-demo)** —— 自托管的 QQ 智能体，核心与协议层解耦
+- 在维护 **[xiaji-home](https://github.com/Xiaji-yu/xiaji-home)** —— 个人主页，零图片素材
+- 在试 **[dsh-Go](https://github.com/Xiaji-yu/dsh-Go)** —— 把 DeepSeek Harness 装进手机
 
 ---
 
-## 近期动态
+## 项目
 
-<table align="center" style="border-collapse:separate;border-spacing:8px;">
-  <tr>
-    <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 24px;min-width:180px;">
-      <div style="font-size:28px;">&#128187;</div>
-      <div style="color:#e6edf3;font-weight:600;margin-top:6px;">构建</div>
-      <div style="color:#8b949e;font-size:14px;">开源工具</div>
-    </td>
-    <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 24px;min-width:180px;">
-      <div style="font-size:28px;">&#128214;</div>
-      <div style="color:#e6edf3;font-weight:600;margin-top:6px;">学习</div>
-      <div style="color:#8b949e;font-size:14px;">系统设计与架构</div>
-    </td>
-    <td align="center" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:16px 24px;min-width:180px;">
-      <div style="font-size:28px;">&#129309;</div>
-      <div style="color:#e6edf3;font-weight:600;margin-top:6px;">协作</div>
-      <div style="color:#8b949e;font-size:14px;">社区项目</div>
-    </td>
-  </tr>
-</table>
+### [agent-demo](https://github.com/Xiaji-yu/agent-demo) · 自托管的 QQ 智能体
 
----
+NoneBot2 只当消息通道，核心 `agentcore` 是纯 Python 包，不感知 QQ——将来想拆成 HTTP 服务，只换壳，不动核心。
 
+长期记忆按会话隔离，pgvector 做语义检索；工具调用有三级权限和命令白名单沙箱。
 
-## GitHub 数据
+`Python` · `NoneBot2` · `PostgreSQL`
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xiaji-yu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaji-yu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-</p>
+### [xiaji-home](https://github.com/Xiaji-yu/xiaji-home) · 黑白点阵个人主页
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xiaji-yu&theme=github-dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&text=c9d1d9" alt="streak"/>
-</div>
+没有一张图片素材。首屏那座山由约 1.5 万颗**等大、同色**的圆点现场算出，明暗只靠疏密；动效全手写，不引动画库，生产包 gzip 后约 80 kB。
+
+`React` · `Vite` · `Canvas`
+
+### [dashboard](https://github.com/Xiaji-yu/dashboard) · 本机状态看板
+
+零外部依赖：Python 标准库起 HTTP 服务，前端原生写。CPU、内存、磁盘、网速、温度、进程和容器状态一屏看完。
+
+`Python` · `标准库`
+
+### [Moments](https://github.com/Xiaji-yu/moments) · 出行照片挑图
+
+批量导入照片，让识图 LLM 挑出值得发的 Top N 并说明理由。二次构图、文案生成和九宫格预览在计划里。
+
+`TypeScript` · `LLM`
 
 ---
 
+## 一些取舍
+
+> 不是口号，是上面这些项目里真的按这个做的。
+
+| 选择 | 放弃 |
+| :--- | :--- |
+| 标准库够用就不加依赖 | 为一个小功能引入一个包 |
+| 把边界收在模块里 | 让调用方自己判断 |
+| 一个人能维护完的系统 | 需要值班的系统 |
+| 用完即删的原型 | 留在仓库里腐烂的代码 |
+
+---
+
+## 常用
+
+`Python` · `TypeScript` · `React` · `Vite` · `Node` · `PostgreSQL` · `Docker` · `Linux`
+
+---
+
+## 联系
+
+- 主页：[xiaji.xin](https://xiaji.xin)
+- 邮箱：[variant305@gmail.com](mailto:variant305@gmail.com)
+- 有问题直接开 Issue，比发邮件快
+
 <div align="center">
-<p>
-  <a href="https://github.com/Xiaji-yu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:variant305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Xiaji-yu&style=flat&color=58a6ff" alt="Profile views"/>
-
+<br/>
+<sub>点阵是算出来的，不是画出来的。</sub>
 </div>
